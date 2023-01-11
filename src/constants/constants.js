@@ -9,5 +9,5 @@ export var Constants={
         1000
         ],
     pageSize:4,
-    filter:["Capsule_Serial","Status",]    
+    filter:["Capsule_Serial","Status","Type","Original_Launch"]    
 }

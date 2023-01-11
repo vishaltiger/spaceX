@@ -12,7 +12,7 @@ function SearchSection({ getSearchString }) {
   }
 
   return (
-    <div className="flex justify-center searchSection flex-col border-t-20 bg-white">
+    <div className="flex justify-center searchSection flex-col border-t-20 bg-white border-t-2">
       <TypeAnimation
         sequence={Constants.sequence}
         speed={50}
@@ -29,6 +29,7 @@ function SearchSection({ getSearchString }) {
           onChange={(e) => searchValue(e)}
 
         />
+      
 
       </div>
 
