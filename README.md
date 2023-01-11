@@ -5,6 +5,8 @@
 2.javascript
 3.scss
 4.Tailwind Css
+5. node.js
+6. Express framework
 
 
 # how to run
