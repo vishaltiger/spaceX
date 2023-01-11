@@ -12,5 +12,5 @@
 # how to run
 1. clone the repo
 2. two parts client and server
-3. run npm i for both floders separately
+3. run npm i for both folders separately
 4. then run npm start
